@@ -4,6 +4,7 @@ header {
 
 #portfolio img {
   width: 100%;
+  vertical-align: top;
 }
 
 .text-faded {
@@ -52,4 +53,9 @@ input:focus, textarea:focus {
 input.btn-primary {
   width: 20%;
   margin-bottom: 30px;
+  padding: 15px 30px;
+}
+
+.phonenumber {
+  margin-top: 20px;
 }
