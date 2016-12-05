@@ -1,3 +1,7 @@
 header {
   background-image: url('../img/painting-header.jpg');
 }
+
+#portfolio img {
+  width: 100%;
+}
