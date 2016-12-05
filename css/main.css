@@ -9,3 +9,14 @@ header {
 .text-faded {
   line-height: 30px;
 }
+
+ p.quote {
+  font-style: italic;
+}
+
+.testimonial {
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
