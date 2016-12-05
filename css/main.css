@@ -13,6 +13,10 @@ header {
   line-height: 30px;
 }
 
+.residential p, .commercial p, #testimonials p {
+  line-height: 30px;
+}
+
  p.quote {
   font-style: italic;
 }
