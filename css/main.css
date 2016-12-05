@@ -20,3 +20,33 @@ header {
 	margin-bottom: 2%;
 	margin-top: 2%;
 }
+
+form {
+  margin: 0 auto;
+}
+
+input, textarea {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border: 2px solid #F05F40;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+}
+
+.radio-btn {
+  display: inline-block;
+  width: 2%;
+}
+
+input.btn-primary {
+  width: 20%;
+  margin-bottom: 30px;
+}
