@@ -59,3 +59,12 @@ input.btn-primary {
 .phonenumber {
   margin-top: 20px;
 }
+
+.fa-home, .fa-building {
+	color: #F05F40;
+	padding: 2%;
+}
+
+div h3 {
+	margin: 2%;
+}
