@@ -1,3 +1,5 @@
+
+
 header {
   background-image: url('../img/painting-header.jpg');
 }
@@ -62,9 +64,31 @@ input.btn-primary {
 
 .fa-home, .fa-building {
 	color: #F05F40;
-	padding: 2%;
 }
 
-div h3 {
-	margin: 2%;
+.residential, .commercial {
+	margin-top: 10%;
+}
+/*.commercial {
+	margin-top: 7%;
+}*/
+
+.service-box {
+	margin: 5% auto 0;
+}
+
+.h3, h3 {
+	margin: 5%;
+}
+
+
+
+@media (min-width: 768px) {
+	.residential, .commercial {
+		margin-top: 3%; 
+	}
+
+	.h3, h3 {
+		margin: 2%;
+	}
 }
