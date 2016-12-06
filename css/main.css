@@ -1,4 +1,17 @@
+/*change colors*/
+hr {
+  border-color: #F05F40;
+}
+hr.light {
+  border-color: white;
+}
+a {
+  color: #F05F40;
+}
 
+.bg-primary {
+  background-color: #f5f5f5;
+}
 
 header {
   background-image: url('../img/painting-header.jpg');
